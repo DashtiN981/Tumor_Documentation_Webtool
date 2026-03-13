@@ -18,8 +18,8 @@ from typing import List
 import pandas as pd
 import numpy as np
 
-PRED_JSON_PATH = Path("/home/naghmedashti/NCT_ICDOTOPO_MORPHO/results/ICDO_RAG_predictions_v2.json")
-GT_PATH        = Path("/home/naghmedashti/NCT_ICDOTOPO_MORPHO/data/NLP-Test_Medi-Daten_bearbeitet.xlsx")
+PRED_JSON_PATH = Path("./results/ICDO_RAG_predictions.json")
+GT_PATH        = Path("./data/Patient_ground_truth.xlsx")
 GT_SHEET_NAME  = "Sheet1"
 
 

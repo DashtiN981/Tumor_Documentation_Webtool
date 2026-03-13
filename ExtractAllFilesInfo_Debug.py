@@ -11,11 +11,10 @@ Version 4.2 — FINAL ROBUST VERSION
 ---------------------------------
 Key features:
  - NEVER produces empty summaries
- - Keeps high-quality behaviour of v4.1
  - Fixes all cases where v4.1 produced missing/empty summaries
  - Adds robust multi-stage fallback:
-       1. Map-reduce (v4.1)
-       2. Strict second-pass (v4.1)
+       1. Map-reduce 
+       2. Strict second-pass 
        3. NEW: Robust "simple" summarization
        4. NEW: LLM-free fallback: merge-of-chunk-summaries
  - Fully automatic, deterministic (temperature=0)
@@ -39,11 +38,11 @@ except Exception:
     fitz = None
 
 # ===================== DEFAULTS =====================
-DEFAULT_INPUT_DIR = "/home/naghmedashti/NCT_ICDOTOPO_MORPHO/main_data/merged_patients"
-DEFAULT_OUT_DIR   = "/home/naghmedashti/NCT_ICDOTOPO_MORPHO/summaries"
-DEFAULT_BASE_URL  = "http://pluto/v1"         # e.g. "http://pluto/v1" or "http://g19a012:8039"
-DEFAULT_MODEL     = "GPT-OSS-120B"
-API_KEY_DEFAULT   = "sk-aKGeEFMZB0gXEcE51FTc0A"  # better use env: LLM_API_KEY / OPENAI_API_KEY
+DEFAULT_INPUT_DIR = "./main_data/merged_patients"
+DEFAULT_OUT_DIR   = "./data"
+DEFAULT_BASE_URL  = "Base-URL"         
+DEFAULT_MODEL     = "Model-Name"
+API_KEY_DEFAULT   = "API-KEY"  # better use env: LLM_API_KEY / OPENAI_API_KEY
 # ====================================================
 
 def _openai_client(base_url: str, api_key: str):
@@ -536,7 +535,7 @@ def main():
             records.append(rec)
 
     # Write JSON
-    json_path = out_dir / "AllTumorReport_ExtractedData4.2.json"
+    json_path = out_dir / "AllTumorReport_ExtractedData.json"
     json_path.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[OK] JSON saved: {json_path}")
 
@@ -556,7 +555,7 @@ def main():
             "route_used": rec.get("route_used","")
         })
 
-    csv_path = out_dir / "AllTumorReport_ExtractedData4.2.csv"
+    csv_path = out_dir / "AllTumorReport_ExtractedData.csv"
     with csv_path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=csv_rows[0].keys())
         writer.writeheader()
@@ -564,7 +563,7 @@ def main():
     print(f"[OK] CSV saved: {csv_path}")
 
     # Write problematic cases
-    prob_path = out_dir / "problematic_cases4,2.json"
+    prob_path = out_dir / "problematic_cases.json"
     prob_path.write_text(json.dumps(problems, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[OK] problematic cases saved: {prob_path}  (count={len(problems)})")
 

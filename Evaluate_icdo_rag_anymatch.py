@@ -28,8 +28,8 @@ import pandas as pd
 
 
 # ---------- CONFIGURE THESE PATHS ----------
-PRED_JSON_PATH = Path("/home/naghmedashti/NCT_ICDOTOPO_MORPHO/results/ICDO_RAG_predictions_v3.json")
-GT_PATH        = Path("/home/naghmedashti/NCT_ICDOTOPO_MORPHO/data/NLP-Test_Medi-Daten_bearbeitet.xlsx")
+PRED_JSON_PATH = Path("./results/ICDO_RAG_predictions.json")
+GT_PATH        = Path("./data/Patient_ground_truth.xlsx")
 GT_SHEET_NAME  = "Sheet1" 
 # ------------------------------------------
 

@@ -4,20 +4,20 @@ Author: Naghme Dashti (project version)
 
 Description:
 ------------
-This script merges multiple OCR-generated `.md` documents belonging to 
+This script merges multiple OCR-generated `.md or .txt` documents belonging to 
 the same patient into a single unified Markdown file. The patient ID is
 determined using the prefix before the first underscore "_" in the file name.
 
 Example:
-    5CAU2Y_2023-12-29_AB_MVZ_geschwärzt.md
-    5CAU2Y_TDS-geschwärzt.md
+    P001_discharge_04-11-2025.txt
+    P001_followup_15-12-2025.txt
 
-Both belong to patient "5CAU2Y".
+Both belong to patient "P001".
 
 Output:
 -------
 For each patient, one merged file is created:
-    merged_patients/5CAU2Y_merged.md
+    merged_patients/P001_merged.md
 
 Each merged file contains all documents in order (sorted by date if available).
 """
@@ -35,7 +35,7 @@ import re
 INPUT_DIR = Path("./main_data/txtfiles")   # ← REPLACE with your actual directory
 
 # Output directory for merged patient documents
-OUTPUT_DIR = INPUT_DIR / "merged_patients"
+OUTPUT_DIR = Path("./main_data/merged_patients")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
@@ -49,7 +49,7 @@ def extract_patient_id(filename: str) -> str:
     Patient ID = prefix before the first underscore "_".
 
     Example:
-        "5CAU2Y_2023-12-29_AB_MVZ.md" → "5CAU2Y"
+        "P001_discharge_04-11-2025.txt" → "P001"
     """
     base = os.path.basename(filename)
     return base.split("_", 1)[0]
@@ -68,7 +68,7 @@ def extract_sort_key(filename: str) -> str:
     Otherwise, the filename itself is used.
 
     Example:
-        "5CAU2Y_2023-12-29_AB_MVZ.md" → "2023-12-29_5CAU2Y_2023-12-29_AB_MVZ.md"
+        "P001_discharge_04-11-2025.txt" → "2025-11-04_P001_discharge_04-11-2025.txt"
     """
     base = os.path.basename(filename)
     

@@ -33,16 +33,15 @@ from openai import OpenAI
 # ==========================
 
 # ---- File paths (ADJUST for your environment) ----
-SUMMARY_EMB_JSON = "/home/naghmedashti/NCT_ICDOTOPO_MORPHO/embedding/TumorSummary_embeddings_bge_m3.json"
-MORPH_EMB_JSON   = "/home/naghmedashti/NCT_ICDOTOPO_MORPHO/embedding/Morph_embeddings_bge_m3.json"
-TOPO_EMB_JSON    = "/home/naghmedashti/NCT_ICDOTOPO_MORPHO/embedding/Topo_embeddings_bge_m3.json"
+SUMMARY_EMB_JSON = "./embedding/TumorSummary_embeddings_bge_m3.json"
+MORPH_EMB_JSON   = "./embedding/Morph_embeddings_bge_m3.json"
+TOPO_EMB_JSON    = "./embedding/Topo_embeddings_bge_m3.json"
 
-OUTPUT_JSON      = "/home/naghmedashti/NCT_ICDOTOPO_MORPHO/results/ICDO_RAG_predictions_v3.json"
-
+OUTPUT_JSON      = "./results/ICDO_RAG_predictions.json"
 # ---- LLM config ----
-BASE_URL   = "http://pluto/v1"          # your OpenAI-compatible base URL
-API_KEY    = "sk-aKGeEFMZB0gXEcE51FTc0A" # os.getenv("PLUTO_API_KEY", "YOUR_API_KEY_HERE")
-MODEL_NAME = "Llama-4-Maverick-17B-128E-Instruct-FP8"   # adjust if needed
+BASE_URL   = "Base-URL"          # your OpenAI-compatible base URL
+API_KEY    = "API-KEY" # os.getenv("YOUR_API_KEY_HERE")
+MODEL_NAME = "Model-Name"   # adjust if needed for example GPT-OSS-120B
 
 # ---- RAG parameters ----
 TOP_K_FINAL    = 10    # final K candidates passed to LLM

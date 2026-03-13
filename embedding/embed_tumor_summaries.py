@@ -22,7 +22,7 @@ from sentence_transformers import SentenceTransformer
 
 # --------- PATHS (adjust if needed) ----------
 DATA_DIR = Path("./data")
-CSV_NAME = "AllTumorReport_ExtractedData3.csv"
+CSV_NAME = "AllTumorReport_ExtractedData.csv"
 
 OUT_DIR = Path("./embedding")
 OUTPUT_JSON = OUT_DIR / "TumorSummary_embeddings_bge_m3.json"
