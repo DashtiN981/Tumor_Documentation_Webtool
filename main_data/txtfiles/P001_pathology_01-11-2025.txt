@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Stanzbiopsie aus rechter Oberlappen. Klinische Fragestellung: Sicherung eines Nicht-kleinzelliges Lungenkarzinom bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend Adenokarzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit Nicht-kleinzelliges Lungenkarzinom.
+
+Parameter | Ergebnis
+Histologie | Adenokarzinom
+Grading | high-grade
+Topographie | rechter Oberlappen
+ICD-O / ICD | C34.1
+Marker | PD-L1 TPS 35 %, EGFR/ALK/ROS1 unauffällig
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines Adenokarzinom im Sinne eines Nicht-kleinzelliges Lungenkarzinom. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit cT2a cN2 cM1b (IVA) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P001-52504
+Eingang: 01.11.2025  Material:Stanzbiopsie
+Beurtlg.: Adenokarzinom ; PD-L1 TPS 35 %, EGFR/ALK/ROS1 unauffällig
+

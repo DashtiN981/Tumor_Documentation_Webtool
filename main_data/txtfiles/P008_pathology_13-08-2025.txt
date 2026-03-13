@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Lymphknotenbiopsie aus unbekannter Primärtumor. Klinische Fragestellung: Sicherung eines CUP-Syndrom bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend undifferenziertes Karzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit CUP-Syndrom.
+
+Parameter | Ergebnis
+Histologie | undifferenziertes Karzinom
+Grading | G2
+Topographie | unbekannter Primärtumor
+ICD-O / ICD | C80.9
+Marker | p40 partiell positiv, Thyreoglobulin erhöht
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines undifferenziertes Karzinom im Sinne eines CUP-Syndrom. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit cTx cN2 cM1c (IVB) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P008-21226
+Eingang: 13.08.2025  Material:Lymphknotenbiopsie
+Beurtlg.: undifferenziertes Karzinom ; p40 partiell positiv, Thyreoglobulin erhöht
+

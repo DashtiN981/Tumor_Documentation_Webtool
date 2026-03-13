@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Lymphknotenbiopsie aus linke Brust. Klinische Fragestellung: Sicherung eines Mammakarzinom bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend invasiv duktales Karzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit Mammakarzinom.
+
+Parameter | Ergebnis
+Histologie | invasiv duktales Karzinom
+Grading | high-grade
+Topographie | linke Brust
+ICD-O / ICD | C50.4
+Marker | ER 90 %, PR 60 %, HER2 negativ, Ki-67 22 %
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines invasiv duktales Karzinom im Sinne eines Mammakarzinom. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit pT2 pN1a M0 (IIB) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P002-51245
+Eingang: 31.10.2025  Material:Lymphknotenbiopsie
+Beurtlg.: invasiv duktales Karzinom ; ER 90 %, PR 60 %, HER2 negativ, Ki-67 22 %
+

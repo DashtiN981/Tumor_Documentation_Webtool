@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Biopsie aus linker Schilddrüsenlappen. Klinische Fragestellung: Sicherung eines Schilddrüsenkarzinom bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend follikuläres Karzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit Schilddrüsenkarzinom.
+
+Parameter | Ergebnis
+Histologie | follikuläres Karzinom
+Grading | G2
+Topographie | linker Schilddrüsenlappen
+ICD-O / ICD | C73.9
+Marker | Thyreoglobulin erhöht
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines follikuläres Karzinom im Sinne eines Schilddrüsenkarzinom. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit pT3a pN1 M1 (IV) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P004-30033
+Eingang: 23.09.2025  Material:Biopsie
+Beurtlg.: follikuläres Karzinom ; Thyreoglobulin erhöht
+

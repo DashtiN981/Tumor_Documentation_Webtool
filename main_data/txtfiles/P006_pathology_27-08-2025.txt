@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Biopsie aus vorderes Mediastinum. Klinische Fragestellung: Sicherung eines NUT-Karzinom des Mediastinums bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend NUT-Mittellinienkarzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit NUT-Karzinom des Mediastinums.
+
+Parameter | Ergebnis
+Histologie | NUT-Mittellinienkarzinom
+Grading | high-grade
+Topographie | vorderes Mediastinum
+ICD-O / ICD | C38.1
+Marker | NUT positiv, PD-L1 0 %
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines NUT-Mittellinienkarzinom im Sinne eines NUT-Karzinom des Mediastinums. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit cT4 cN3 cM1 (IVB) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P006-44522
+Eingang: 27.08.2025  Material:Biopsie
+Beurtlg.: NUT-Mittellinienkarzinom ; NUT positiv, PD-L1 0 %
+
