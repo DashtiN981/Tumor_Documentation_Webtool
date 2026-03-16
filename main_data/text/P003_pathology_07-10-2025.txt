@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Lymphknotenbiopsie aus Colon sigmoideum. Klinische Fragestellung: Sicherung eines Kolorektales Karzinom bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend Adenokarzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit Kolorektales Karzinom.
+
+Parameter | Ergebnis
+Histologie | Adenokarzinom
+Grading | high-grade
+Topographie | Colon sigmoideum
+ICD-O / ICD | C18.7
+Marker | Mismatch-Repair-proficient, KRAS mutiert
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines Adenokarzinom im Sinne eines Kolorektales Karzinom. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit pT3 pN2a M1a (IVA) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P003-44438
+Eingang: 07.10.2025  Material:Lymphknotenbiopsie
+Beurtlg.: Adenokarzinom ; Mismatch-Repair-proficient, KRAS mutiert
+

@@ -1,0 +1,27 @@
+Material / Fragestellung
+
+Resektionspräparat aus rechte Tonsille. Klinische Fragestellung: Sicherung eines Oropharynxkarzinom bei bekannter Verdachtsdiagnose.
+
+Makroskopie
+
+Eingang von mehreren grau-weißlichen Gewebszylindern bis 1,6 cm Länge. Das Material wurde vollständig eingebettet.
+
+Mikroskopie
+
+Nachweis eines malignen epithelialen bzw. mesenchymalen Tumors entsprechend Plattenepithelkarzinom. Es zeigen sich atypische Zellverbände mit ausgeprägter Kernpleomorphie und erhöhter Mitosezahl. Der Befund ist vereinbar mit Oropharynxkarzinom.
+
+Parameter | Ergebnis
+Histologie | Plattenepithelkarzinom
+Grading | high-grade
+Topographie | rechte Tonsille
+ICD-O / ICD | C10.9
+Marker | p16 positiv
+
+Beurteilung
+
+Zusammenfassend ergibt sich der Befund eines Plattenepithelkarzinom im Sinne eines Oropharynxkarzinom. Die klinisch-radiologische Korrelation wird empfohlen. Das Staging wird klinisch mit cT2 cN2 cM0 (III) angegeben.
+
+PATHOLOGIE-LABOR // Fall-Nr P009-89507
+Eingang: 30.06.2025  Material:Resektionspräparat
+Beurtlg.: Plattenepithelkarzinom ; p16 positiv
+

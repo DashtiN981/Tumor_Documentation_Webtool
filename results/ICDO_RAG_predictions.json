@@ -1,0 +1,222 @@
+[
+  {
+    "doc_id": "P001",
+    "summary_text": "Das histologisch gesicherte Tumorbild ist ein hochgradiges Adenokarzinom des nicht‑kleinzelligen Lungenkarzinoms im rechten Oberlappen. Die exakte Tumorgröße wird nicht angegeben, ebenso wenig das histologische Grading. Klinisch‑radiologisch wird das Stadium als cT2a cN2 cM1b (Stage IVA) eingestuft. Metastasen liegen in zervikalen Lymphknoten sowie als solitäre Lebermetastase vor. Das Biomarkerprofil zeigt eine PD‑L1‑Expression mit einem Tumor‑Prozent‑Score von 35  %; EGFR, ALK und ROS1 sind unauffällig. Eine systemische, palliative Therapie wurde im Tumorboard freigegeben und wird durchgeführt. Zusätzlich werden symptomkontrollierende Maßnahmen wie Port‑Implantation und Analgetika eingesetzt. Nicht berichtet werden weitere molekulare Analysen oder ein konkretes Tumor‑Grading.",
+    "pred_morphology_description": "Adenokarzinom mit Knorpelmetaplasie",
+    "pred_ICD_morphology_code": "8571/3",
+    "pred_topography_description": "C34.1 Lungenoberlappen",
+    "pred_ICD_topography_code": "C34.1",
+    "selection_cause": "Adenokarzinom is the appropriate morphology; primary site is the right upper lobe.",
+    "candidate_morphology_codes": [
+      "8000/1",
+      "8311/1",
+      "8571/3"
+    ],
+    "candidate_topography_codes": [
+      "C34",
+      "C34",
+      "C34"
+    ],
+    "organ_families_detected": [
+      "C22",
+      "C34"
+    ]
+  },
+  {
+    "doc_id": "P002",
+    "summary_text": "Das histologische Ergebnis zeigt ein invasiv duktales Karzinom der linken Brust mit hohem Differenzierungsgrad (high‑grade). Das Tumorstadium wird mit pT2 pN1a M0 (Stadium IIB) angegeben; ein Lymphknotenbefall (pN1a) liegt vor, Fernmetastasen werden nicht nachgewiesen. Die Tumorgröße wird im Befund nicht berichtet. Immunhistochemisch ist das Karzinom stark östrogenrezeptor‑positiv (≈ 90 %) und progesteronrezeptor‑positiv (≈ 60 %). Der HER2‑Status ist negativ, die Proliferationsrate (Ki‑67) beträgt 22 %. Aufgrund des fortgeschrittenen Lymphknotenbefalls wird eine systemische Therapie empfohlen. Weitere lokale Therapieoptionen (z. B. Operation, Strahlentherapie) werden nicht im Text erwähnt. Nicht berichtet/unklar sind Details zur geplanten konkreten Chemotherapie‑ oder Hormontherapie.",
+    "pred_morphology_description": "Invasives duktales und lobuläres Karzinom",
+    "pred_ICD_morphology_code": "8522/3",
+    "pred_topography_description": "Brust o.n.A.",
+    "pred_ICD_topography_code": "C50.9",
+    "selection_cause": "Invasive ductal carcinoma described; primary breast site chosen.",
+    "candidate_morphology_codes": [
+      "8514/3",
+      "8522/3",
+      "8522/3"
+    ],
+    "candidate_topography_codes": [
+      "C50",
+      "C50",
+      "C50"
+    ],
+    "organ_families_detected": [
+      "C50"
+    ]
+  },
+  {
+    "doc_id": "P003",
+    "summary_text": "Es handelt sich um ein histologisch gesichertes hochgradiges Adenokarzinom des Colon sigmoideum. Das Tumorstadium ist pT3, pN2a, M1a, entsprechend Stadium IVA. Multiple Lebermetastasen sind nachweisbar. Symptomatische knöcherne Läsionen liegen vor und werden für eine Bestrahlung eingeplant. Der Tumor ist mismatch‑repair‑proficient und trägt eine KRAS‑Mutation; weitere molekulare Marker wurden nicht berichtet. Eine systemische palliative Therapie wurde bereits eingeleitet. Zusätzlich werden symptomkontrollierende Maßnahmen wie Analgesie und Transfusionssupport durchgeführt. Eine akute Infektkonstellation wird verneint.",
+    "pred_morphology_description": "Adenokarzinom o.n.A.",
+    "pred_ICD_morphology_code": "8140/3",
+    "pred_topography_description": "Colon sigmoideum",
+    "pred_ICD_topography_code": "C18.7",
+    "selection_cause": "High‑grade adenocarcinoma of the sigmoid colon without specific metaplastic features.",
+    "candidate_morphology_codes": [
+      "8140/3",
+      "8571/3",
+      "8572/3"
+    ],
+    "candidate_topography_codes": [
+      "C18",
+      "C18",
+      "C18"
+    ],
+    "organ_families_detected": [
+      "C18",
+      "C22"
+    ]
+  },
+  {
+    "doc_id": "P004",
+    "summary_text": "Der Tumortyp wird nicht berichtet.   Die histopathologische Beschaffenheit des Tumors ist nicht angegeben.   Eine Angabe zur Lokalisation bzw. betroffenen Seite liegt nicht vor.   Die Tumorgröße wird im Text nicht genannt.   Ein Grading oder eine Differenzierungsstufe wird nicht angegeben.   Es wird nicht unterschieden, ob es sich um einen Primärtumor oder um Metastasen handelt.   Im Befund werden keine immunhistochemischen Marker oder molekulare Charakteristika genannt.   Eine Therapieempfehlung oder bereits durchgeführte Behandlung wird nicht beschrieben.   Weitere klinische oder prognostische Angaben fehlen ebenfalls.",
+    "pred_morphology_description": "Unklassifizierter maligner Tumor, unsicher ob Primärtumor oder Metastase",
+    "pred_ICD_morphology_code": "8000/9",
+    "pred_topography_description": "C16.8 Magenhinterwand o.n.A. (Hinw.: Nicht klassifizierbar unter C16.0 bis C16.4)",
+    "pred_ICD_topography_code": "C16.8",
+    "selection_cause": "Both morphology and topography are unspecified in the report.",
+    "candidate_morphology_codes": [
+      "8000/9",
+      "8349/1",
+      "8591/1"
+    ],
+    "candidate_topography_codes": [
+      "C16",
+      "C16",
+      "C08"
+    ],
+    "organ_families_detected": []
+  },
+  {
+    "doc_id": "P005",
+    "summary_text": "Das resezierte Gewebe des rechten Oberschenkels zeigte ein pleomorphes, hochgradiges Weichteilsarkom mit ausgeprägter Kernpleomorphie und hoher Mitosezahl. Das Tumorgrading wird als high‑grade eingestuft; die exakte Tumorgröße wird im Befund nicht angegeben. Klinisch‑radiologisch entspricht das Stadium cT2b cN0 cM1, also einem fortgeschrittenen Stadium IV. Es liegen pulmonale Fernmetastasen vor, während regionale Lymphknotenbefall nicht nachgewiesen wurde. Das Biomarkerprofil weist eine hohe Proliferationsrate auf, jedoch keinen nachweisbaren spezifischen molekularen Treiber. Aufgrund des Fehlens zielgerichtbarer Mutationen wird eine zielgerichtete Therapie nicht empfohlen. Stattdessen wird eine systemische palliative Behandlung mit symptomorientierter Medikation vorgeschlagen. Zusätzlich ist eine Bestrahlung symptomatischer ossärer Läsionen geplant.",
+    "pred_morphology_description": "Weichteilsarkom",
+    "pred_ICD_morphology_code": "8800/3",
+    "pred_topography_description": "Pulmonal o.n.A.",
+    "pred_ICD_topography_code": "C34.9",
+    "selection_cause": "Morphology matches soft‑tissue sarcoma; primary thigh site not in list, so lung code chosen as best available.",
+    "candidate_morphology_codes": [
+      "8830/3",
+      "8800/3",
+      "9581/3"
+    ],
+    "candidate_topography_codes": [
+      "C34",
+      "C34",
+      "C34"
+    ],
+    "organ_families_detected": [
+      "C34"
+    ]
+  },
+  {
+    "doc_id": "P006",
+    "summary_text": "Das primäre Tumorobjekt ist ein hochgradiges NUT‑Mittellinienkarzinom, das im vorderen Mediastinum auftritt. In der Biopsie zeigten sich mehrere grau‑weißliche Gewebszylinder mit einer maximalen Länge von 1,6 cm, wobei die exakte Tumorgröße nicht angegeben ist. Immunhistochemisch ist das Karzinom NUT‑positiv, während die PD‑L1‑Expression mit 0 % negativ ist und keine weiteren molekularen Zielmarker nachgewiesen wurden. Klinisch‑radiologisch entspricht das Geschehen einem fortgeschrittenen Stadium cT4 cN3 cM1 (IVB). Es liegen ossäre Metastasen sowie Metastasen in den Nebennieren vor. Eine kurative Therapie ist nicht möglich; die aktuelle Empfehlung sieht eine palliative systemische Behandlung vor. Zusätzlich wird symptomkontrollierende Medikation eingesetzt. Geplante Bestrahlungen richten sich auf symptomatische knöcherne Läsionen.",
+    "pred_morphology_description": "NUT-Mittellinien-Karzinom",
+    "pred_ICD_morphology_code": "8023/3",
+    "pred_topography_description": "C34.9 Lunge o.n.A.",
+    "pred_ICD_topography_code": "C34.9",
+    "selection_cause": "Matches NUT midline carcinoma; generic lung site used as closest primary location.",
+    "candidate_morphology_codes": [
+      "8023/3",
+      "8023/3",
+      "8211/3"
+    ],
+    "candidate_topography_codes": [
+      "C34",
+      "C34",
+      "C34"
+    ],
+    "organ_families_detected": [
+      "C34"
+    ]
+  },
+  {
+    "doc_id": "P007",
+    "summary_text": "Das histopathologische Ergebnis einer Prostata‑Lymphknotenbiopsie zeigte ein prostatisches Stromasarkom, einen malignen epithelial‑mesenchymalen Tumor, mit Grading G2; die Tumorgröße wurde nicht angegeben. Klinisch wird das Geschehen als cT3b cN1 cM1b (Stadium IVB) eingestuft, wobei ossäre Metastasen sowie metastatische iliakale Lymphknoten nachgewiesen wurden. Die Diagnose wurde durch die Referenzpathologie bestätigt; ein spezifischer Biomarker wurde nicht genannt. Eine systemische Therapie ist nach Freigabe im interdisziplinären Tumorboard vorgesehen. Derzeit wird symptomatisch mit Dexamethason, Metamizol, Pantoprazol und niedermolekularem Heparin behandelt. Der aktuelle klinische Zustand des Patienten ist stabil bis mäßig reduziert, ECOG‑Leistungsstatus 0‑1. Es besteht keine akute Infektkonstellation. Die weitere Therapieplanung richtet sich nach den Ergebnissen des Tumorboards.",
+    "pred_morphology_description": "Tumor o.n.A.",
+    "pred_ICD_morphology_code": "8000/1",
+    "pred_topography_description": "Prostata",
+    "pred_ICD_topography_code": "C61.9",
+    "selection_cause": "Generic sarcoma code fits the unspecified stromal sarcoma and prostate topography is the primary site.",
+    "candidate_morphology_codes": [
+      "8000/1",
+      "8936/3",
+      "8930/3"
+    ],
+    "candidate_topography_codes": [
+      "C61",
+      "C61",
+      "C61"
+    ],
+    "organ_families_detected": [
+      "C61"
+    ]
+  },
+  {
+    "doc_id": "P008",
+    "summary_text": "Das histopathologische Ergebnis einer Lymphknotenbiopsie zeigte ein undifferenziertes Karzinom mit dem Differenzierungsgrad G2, wobei kein Primärtumor nachgewiesen werden konnte (CUP‑Syndrom). Klinisch wird das Tumorstadium mit cTx cN2 cM1c angegeben, was dem fortgeschrittenen Stadium IVB entspricht. Metastasen wurden in der Lunge, der Leber und im Knochen festgestellt. Immunhistochemisch zeigte das Tumorgewebe eine partielle Positivität für p40; das Serum-Thyreoglobulin war erhöht, weitere molekulare Marker wurden nicht genannt. Eine systemische, palliative Therapie wurde empfohlen. Zusätzlich erfolgte eine symptomkontrollierende Medikation mit Dexamethason, Metamizol, Pantoprazol und niedermolekularem Heparin. Die Größe des (nicht nachweisbaren) Primärtumors und weitere spezifische Biomarker wurden nicht berichtet. Insgesamt liegt ein fortgeschrittenes, nicht lokalisierbares Karzinom mit multiplem Organbefall vor, das derzeit palliativen Behandlungsstrategien unterliegt.",
+    "pred_morphology_description": "Anaplastisches undifferenziertes Karzinom",
+    "pred_ICD_morphology_code": "8020/3",
+    "pred_topography_description": "Lunge o.n.A.",
+    "pred_ICD_topography_code": "C34.9",
+    "selection_cause": "Undifferenziertes Karzinom with unknown primary, lung is the most plausible primary site among options.",
+    "candidate_morphology_codes": [
+      "8020/3",
+      "8000/9",
+      "8263/3"
+    ],
+    "candidate_topography_codes": [
+      "C22",
+      "C34",
+      "C34"
+    ],
+    "organ_families_detected": [
+      "C22",
+      "C34"
+    ]
+  },
+  {
+    "doc_id": "P009",
+    "summary_text": "Tumorart: nicht berichtet.   Histologie bzw. Differenzierung: nicht berichtet.   Lokalisation bzw. betroffene Seite: nicht berichtet.   Tumorgröße bzw. Ausdehnung: nicht berichtet.   Grading bzw. Tumorgrad: nicht berichtet.   Primärtumor oder Metastasen: nicht berichtet.   Tumormarker (z. B. Ki‑67, HER2, hormonelle Rezeptoren): nicht berichtet.   Therapeutische Maßnahmen (Operation, Systemtherapie, Strahlentherapie etc.): nicht berichtet.",
+    "pred_morphology_description": "Unklassifizierter maligner Tumor, unsicher ob Primärtumor oder Metastase",
+    "pred_ICD_morphology_code": "8000/9",
+    "pred_topography_description": "Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+    "pred_ICD_topography_code": "C44.3",
+    "selection_cause": "No specific details provided, so generic unspecified tumor and site are selected.",
+    "candidate_morphology_codes": [
+      "8000/9",
+      "8591/1",
+      "8349/1"
+    ],
+    "candidate_topography_codes": [
+      "C16",
+      "C16",
+      "C44"
+    ],
+    "organ_families_detected": []
+  },
+  {
+    "doc_id": "P010",
+    "summary_text": "Das histologisch gesicherte Tumorbild ist ein duktales Adenokarzinom des Pankreaskopfes. Es wird als Hochgrad (G3) eingestuft. Das klinische Staging lautet cT3 cN1 cM1, entsprechend Stadium IV. Fernmetastasen wurden in Form von hepatischen Filien und einer Peritonealkarzinose nachgewiesen. Der Tumor wurde in einer Lymphknotenbiopsie aus dem Pankreaskopf identifiziert; die Tumorgröße wird nicht berichtet. Der Tumormarker CA 19‑9 ist deutlich erhöht, weitere molekulare Marker wurden nicht genannt. Es ist eine palliative systemische Therapie geplant. Zusätzlich ist eine Bestrahlung für symptomatische ossäre Läsionen vorgesehen, eine kurative Therapieoption wird nicht angegeben.",
+    "pred_morphology_description": "Duktales Adenokarzinom o.n.A.",
+    "pred_ICD_morphology_code": "8500/3",
+    "pred_topography_description": "Pankreaskopf",
+    "pred_ICD_topography_code": "C25.0",
+    "selection_cause": "Matches a grade 3 ductal adenocarcinoma primary in the pancreatic head.",
+    "candidate_morphology_codes": [
+      "8500/3",
+      "8525/3",
+      "8140/3"
+    ],
+    "candidate_topography_codes": [
+      "C25",
+      "C25",
+      "C25"
+    ],
+    "organ_families_detected": [
+      "C22",
+      "C25"
+    ]
+  }
+]

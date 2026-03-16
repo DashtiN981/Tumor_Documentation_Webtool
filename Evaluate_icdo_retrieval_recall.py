@@ -20,7 +20,7 @@ import numpy as np
 
 PRED_JSON_PATH = Path("./results/ICDO_RAG_predictions.json")
 GT_PATH        = Path("./data/Patient_ground_truth.xlsx")
-GT_SHEET_NAME  = "Sheet1"
+GT_SHEET_NAME  = "Patient_ground_truth"
 
 
 def log(msg: str) -> None:
@@ -65,8 +65,8 @@ def load_predictions(path: Path) -> pd.DataFrame:
     if missing:
         raise ValueError(f"Predictions JSON missing columns: {missing}")
 
-    # candidate_*_codes در اسکریپت RAG از قبل canonical شده‌اند،
-    # ولی برای اطمینان می‌توانیم باز هم canonical کنیم.
+    # candidate_*_codes are already canonicalized in the RAG script,
+    # but for verification we can canonicalize them again.
     df["cand_morph"] = df["candidate_morphology_codes"].apply(
         lambda lst: [canon_morph(x) for x in (lst or [])]
     )

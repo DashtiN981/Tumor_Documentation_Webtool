@@ -40,9 +40,9 @@ except Exception:
 # ===================== DEFAULTS =====================
 DEFAULT_INPUT_DIR = "./main_data/merged_patients"
 DEFAULT_OUT_DIR   = "./data"
-DEFAULT_BASE_URL  = "Base-URL"         
-DEFAULT_MODEL     = "Model-Name"
-API_KEY_DEFAULT   = "API-KEY"  # better use env: LLM_API_KEY / OPENAI_API_KEY
+DEFAULT_BASE_URL  = "Base-URL-Here"         #Base-URL
+DEFAULT_MODEL     = "Model-Name-Here" #Model-Name
+API_KEY_DEFAULT   = "Api-Key-Here"  # better use env: LLM_API_KEY / OPENAI_API_KEY API-KEY
 # ====================================================
 
 def _openai_client(base_url: str, api_key: str):
